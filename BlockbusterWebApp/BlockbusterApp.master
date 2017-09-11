@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta charset="utf-8" />    
+    <title>Blockbuster Video</title>
+    <link rel="stylesheet" type="text/css" href="~/Styles/BlockbusterStyles.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="banner">
+
+            </div>
+            <div id="navigation">
+
+            </div>
+            <div id="contentArea">
+
+            </div>
+            <div id="sidebar">
+
+            </div>
+            <div id="footer">
+                <p>All rights reserved.</p>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

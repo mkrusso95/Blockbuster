@@ -11,16 +11,16 @@
     <form id="form1" runat="server">
         <div id="wrapper">
             <div id="banner">
-
+                
             </div>
             <div id="navigation">
-
+                
             </div>
             <div id="contentArea">
-
+                
             </div>
             <div id="sidebar">
-
+                
             </div>
             <div id="footer">
                 <p>All rights reserved.</p>

@@ -1,22 +1,56 @@
 ﻿body {
+    font-family: 'Lucida Sans' , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: mintcream;
 }
 
+/*wrapper style*/
 #wrapper {
-
+    width: 1080px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid #dedede;
+    background-color: #fff;
 }
 
+/*banner style*/
+#banner {
+    height: 204px;
+    border: 3px solid #E3E3E3;
+    background-image: url('../Project_Images/Blockbuster_logo.svg.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1080px;
+}
+
+/*nav style*/
 #navigation {
-
+    height: 60px;
+    border: 3px solid #E3E3E3;
+    margin-top: 20px;
 }
 
+/*main content area style */
 #contentArea {
-
+    float: left;
+    width: 750px;
+    margin: 20px 0 20px 0;
+    padding: 10px;
+    border: 3px solid #E3E3E3;
 }
 
+/*side information bar style*/
 #sidebar {
-
+    float: right;
+    width: 250px;
+    height: 400px;
+    margin: 20px 10px 20px 10px;
+    border: 3px solid #E3E3E3;
 }
 
+/*page footer style*/
 #footer {
-
+    clear: both;
+    width: auto;
+    height: 40px;
+    margin-top: 20px;
 }
